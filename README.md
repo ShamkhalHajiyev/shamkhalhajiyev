@@ -58,13 +58,6 @@
 
 ---
 
-### 🏆 Achievements
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=shamkhalHajiyev&theme=dracula&no-frame=true&no-bg=true&margin-w=5" />
-</p>
-
----
 
 ### 🐍 Contribution Snake
 
