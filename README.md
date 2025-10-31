@@ -11,13 +11,16 @@
 ### 🔥 About Me
 
 - 💼 Data Science Specialist @ **Align Technology**
-- 🤖 Shipping ML systems for forecasting, churn & automation
+- 🤖 Deploying ML systems for forecasting, churn prediction & automation
 - ⚙️ Azure ML, Databricks, PySpark, Airflow, Polars, SHAP
-- 📊 Strong mix of ML engineering + MLOps + analytics
-- 🌍 Based in Poland | 📧 hajiyev.shamkhal@gmail.com
-- 🎯 Mission: Build useful, scalable AI systems that ship
+- 📊 Blending ML engineering + MLOps + data analytics
+- 🌍 Based in Poland  
+- 📧 hajiyev.shamkhal@gmail.com  
+- 🎯 Mission: Build impactful, scalable AI systems that solve real business problems
 
-<img align="right" width="260" src="https://i.imgur.com/UmZrZ2Z.gif">
+<p align="right">
+  <img align="right" width="260" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
+</p>
 
 ---
 
@@ -42,18 +45,17 @@
 
 | Project | Description | Tech |
 |---|---|---|
-| 🎯 Order Conversion ML System | Real-time business prediction + SHAP | Azure ML, CatBoost, Power BI |
-| 🔮 Forecasting Engine | LSTM + ARIMA pipeline | Azure ML, Python |
-| 📊 Risk Analytics Dashboard | Finance analytics platform | Dash, Docker, MySQL |
-| 🏗 ETL + Metrics Automation | Scalable pipeline | Airflow, Polars, Python |
+| 🎯 Order Conversion ML System | Real-time conversion prediction + SHAP insights | Azure ML, CatBoost, Power BI |
+| 🔮 Forecasting Engine | LSTM + ARIMA pipeline for business forecasting | Python, Azure ML |
+| 📊 Risk Analytics Dashboard | Portfolio risk & allocation app | Dash, Docker, MySQL |
+| 🏗 ETL + Metrics Automation | High-speed automation pipeline | Airflow, Polars, Python |
 
 ---
-
 
 ### 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
+  <img src="https://raw.githubusercontent.com/shamkhalHajiyev/snk/output/github-contribution-grid-snake-dark.svg" />
 </p>
 
 ---
@@ -70,4 +72,4 @@
 
 ### 🕹️ Off-Work Mood
 
-Strategic games, research papers, chess, exploring new tech and ML ideas.
+Strategic games, research papers, chess, and experimenting with AI ideas.
