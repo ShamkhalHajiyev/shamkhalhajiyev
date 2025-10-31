@@ -37,46 +37,27 @@
 <!-- ML / Data -->
 <img src="https://img.shields.io/badge/NumPy-000000?style=for-the-badge&logo=numpy&logoColor=white"/>
 <img src="https://img.shields.io/badge/Pandas-000000?style=for-the-badge&logo=pandas&logoColor=white"/>
-<img src="https://img.shields.io/badge/Polars-000000?style=for-the-badge&logoColor=white"/>
 <img src="https://img.shields.io/badge/scikit--learn-000000?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
 <img src="https://img.shields.io/badge/TensorFlow-000000?style=for-the-badge&logo=tensorflow&logoColor=white"/>
 <img src="https://img.shields.io/badge/PyTorch-000000?style=for-the-badge&logo=pytorch&logoColor=white"/>
-<img src="https://img.shields.io/badge/XGBoost-000000?style=for-the-badge&logo=xgboost&logoColor=white"/>
-<img src="https://img.shields.io/badge/LightGBM-000000?style=for-the-badge&logo=leaflet&logoColor=white"/>
-<img src="https://img.shields.io/badge/CatBoost-000000?style=for-the-badge&logoColor=white"/>
-<img src="https://img.shields.io/badge/SHAP-000000?style=for-the-badge&logoColor=white"/>
-<img src="https://img.shields.io/badge/Time%20Series-000000?style=for-the-badge&logoColor=white"/>
 
 <!-- MLOps -->
 <img src="https://img.shields.io/badge/MLflow-000000?style=for-the-badge&logo=mlflow&logoColor=white"/>
-<img src="https://img.shields.io/badge/Model%20Interpretability-000000?style=for-the-badge&logoColor=white"/>
 
 <!-- Data Engineering -->
-<img src="https://img.shields.io/badge/Apache%20Airflow-000000?style=for-the-badge&logo=apacheairflow&logoColor=white"/>
-<img src="https://img.shields.io/badge/Luigi-000000?style=for-the-badge&logoColor=white"/>
 <img src="https://img.shields.io/badge/Apache%20Spark-000000?style=for-the-badge&logo=apachespark&logoColor=white"/>
 <img src="https://img.shields.io/badge/PySpark-000000?style=for-the-badge&logo=apachespark&logoColor=white"/>
-<img src="https://img.shields.io/badge/API%20Integration-000000?style=for-the-badge&logo=fastapi&logoColor=white"/>
+
 
 <!-- Cloud -->
-<img src="https://img.shields.io/badge/Microsoft%20Azure-000000?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
-<img src="https://img.shields.io/badge/Azure%20ML-000000?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
 <img src="https://img.shields.io/badge/Azure%20Databricks-000000?style=for-the-badge&logo=databricks&logoColor=red"/>
-<img src="https://img.shields.io/badge/Microsoft%20Fabric-000000?style=for-the-badge&logo=microsoft&logoColor=white"/>
 
 <!-- Analytics -->
-<img src="https://img.shields.io/badge/PowerBI-000000?style=for-the-badge&logo=powerbi&logoColor=white"/>
 <img src="https://img.shields.io/badge/Plotly-000000?style=for-the-badge&logo=plotly&logoColor=white"/>
-<img src="https://img.shields.io/badge/Dash-000000?style=for-the-badge&logo=plotly&logoColor=white"/>
 
-<!-- Databases -->
-<img src="https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=mysql&logoColor=white"/>
-<img src="https://img.shields.io/badge/PostgreSQL-000000?style=for-the-badge&logo=postgresql&logoColor=white"/>
 
 <!-- DevOps -->
 <img src="https://img.shields.io/badge/Docker-000000?style=for-the-badge&logo=docker&logoColor=white"/>
-<img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/GitHub%20Actions-000000?style=for-the-badge&logo=githubactions&logoColor=white"/>
 
 <!-- Collaboration -->
 <img src="https://img.shields.io/badge/Jira-000000?style=for-the-badge&logo=jira&logoColor=white"/>
