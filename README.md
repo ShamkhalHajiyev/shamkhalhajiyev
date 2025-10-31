@@ -2,10 +2,6 @@
 <h2 align="center">👋 Hey, I'm <b>Shamkhal Hajiyev</b></h2>
 <p align="center">Machine Learning Engineer | Data Scientist | Cloud AI Specialist</p>
 
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=shamkhalHajiyev&color=blueviolet&style=for-the-badge" alt="Profile views" />
-</p>
-
 ---
 
 ### 🔥 About Me
