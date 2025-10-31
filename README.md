@@ -30,7 +30,6 @@
   <img src="https://img.shields.io/badge/Databricks-000000?style=for-the-badge&logo=databricks&logoColor=red"/>
   <img src="https://img.shields.io/badge/Hugging%20Face-000000?style=for-the-badge&logo=huggingface&logoColor=yellow"/>
   <img src="https://img.shields.io/badge/PySpark-000000?style=for-the-badge&logo=apachespark&logoColor=orange"/>
-  <img src="https://img.shields.io/badge/Docker-000000?style=for-the-badge&logo=docker&logoColor=white"/>
   <img src="https://img.shields.io/badge/Airflow-000000?style=for-the-badge&logo=apacheairflow&logoColor=white"/>
   <img src="https://img.shields.io/badge/Polars-000000?style=for-the-badge&logoColor=white"/>
   <img src="https://img.shields.io/badge/MLflow-000000?style=for-the-badge&logo=mlflow&logoColor=white"/>
@@ -49,28 +48,11 @@
 
 ---
 
-### 📈 GitHub Performance
-
-<p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=shamkhalHajiyev&show_icons=true&theme=tokyonight" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shamkhalHajiyev&layout=compact&theme=tokyonight" />
-</p>
-
----
-
 
 ### 🐍 Contribution Snake
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
-</p>
-
----
-
-### ⚡ Activity Feed
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shamkhalHajiyev&theme=react-dark&hide_border=true" />
 </p>
 
 ---
