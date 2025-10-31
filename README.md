@@ -13,7 +13,7 @@
 - 💼 Data Science Specialist @ **Align Technology**
 - 🤖 Deploying ML systems for forecasting, churn prediction & automation
 - ⚙️ Azure ML, Databricks, PySpark, Airflow, Polars, SHAP
-- 📊 ML engineering + MLOps + analytics
+- 📊 ML Engineering + MLOps + Analytics
 - 🌍 Based in Poland  
 - 📧 hajiyev.shamkhal@gmail.com  
 - 🎯 Mission: Build impactful AI systems that solve business problems
