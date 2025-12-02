@@ -6,7 +6,7 @@
 
 ### 🔥 About Me
 
-- 💼 Data Science Specialist @ **Align Technology**
+- 💼 Azure Certificed Data Scienctist | Machine Learning Engineer
 - 🤖 Deploying ML systems for forecasting, churn prediction & automation
 - ⚙️ Azure ML, Databricks, PySpark, Airflow, Polars, SHAP
 - 📊 ML Engineering + MLOps + Analytics
