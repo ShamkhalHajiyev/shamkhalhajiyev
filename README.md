@@ -1,97 +1,58 @@
-<!-- HEADER -->
-<h2 align="center">👋 Hey, I'm <b>Shamkhal Hajiyev</b></h2>
-<p align="center">Machine Learning Engineer | Data Scientist | Cloud AI Specialist</p>
+# Shamkhal Hajiyev
+
+<div align="center">
+
+**Machine Learning Engineer**  
+Building production ML systems that drive measurable business outcomes.
+
+[Link to Portfolio](https://shamkhalhajiyev.github.io/) • [LinkedIn](https://www.linkedin.com/in/shamkhalhajiyev/) • [Email](mailto:hajiyev.shamkhal@gmail.com)
+
+</div>
 
 ---
 
-### 🔥 About Me
+## ⚡ About
 
-- 💼 Azure Certificed Data Scienctist | Machine Learning Engineer
-- 🤖 Deploying ML systems for forecasting, churn prediction & automation
-- ⚙️ Azure ML, Databricks, PySpark, Airflow, Polars, SHAP
-- 📊 ML Engineering + MLOps + Analytics
-- 🌍 Based in Poland  
-- 📧 hajiyev.shamkhal@gmail.com  
-- 🎯 Mission: Build impactful AI systems that solve business problems
-
-<p align="right">
-  <img align="right" width="260" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
-</p>
+I'm a Machine Learning Engineer with 5 years of experience designing and delivering end-to-end ML solutions. My focus is on turning complex data into reliable, scalable systems — ranging from forecasting pipelines and churn prediction models to real-time inference and MLOps automation. I'm Azure-certified and passionate about building reproducible, production-grade AI infrastructure.
 
 ---
 
-### ⚔️ Tech & Tools
+## 🛠 Tech & Tools
 
-<p>
+### **Languages**
+<img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/R-000000?style=for-the-badge&logo=r&logoColor=white"/> <img src="https://img.shields.io/badge/SQL-000000?style=for-the-badge&logo=postgresql&logoColor=white"/> <img src="https://img.shields.io/badge/Bash-000000?style=for-the-badge&logo=gnu-bash&logoColor=white"/>
 
-<!-- Languages -->
-<img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/R-000000?style=for-the-badge&logo=r&logoColor=white"/>
-<img src="https://img.shields.io/badge/SQL-000000?style=for-the-badge&logo=postgresql&logoColor=white"/>
-<img src="https://img.shields.io/badge/Bash-000000?style=for-the-badge&logo=gnu-bash&logoColor=white"/>
+### **Machine Learning & Data**
+<img src="https://img.shields.io/badge/NumPy-000000?style=for-the-badge&logo=numpy&logoColor=white"/> <img src="https://img.shields.io/badge/Pandas-000000?style=for-the-badge&logo=pandas&logoColor=white"/> <img src="https://img.shields.io/badge/scikit--learn-000000?style=for-the-badge&logo=scikitlearn&logoColor=white"/> <img src="https://img.shields.io/badge/TensorFlow-000000?style=for-the-badge&logo=tensorflow&logoColor=white"/> <img src="https://img.shields.io/badge/PyTorch-000000?style=for-the-badge&logo=pytorch&logoColor=white"/> <img src="https://img.shields.io/badge/Plotly-000000?style=for-the-badge&logo=plotly&logoColor=white"/>
 
-<!-- ML / Data -->
-<img src="https://img.shields.io/badge/NumPy-000000?style=for-the-badge&logo=numpy&logoColor=white"/>
-<img src="https://img.shields.io/badge/Pandas-000000?style=for-the-badge&logo=pandas&logoColor=white"/>
-<img src="https://img.shields.io/badge/scikit--learn-000000?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
-<img src="https://img.shields.io/badge/TensorFlow-000000?style=for-the-badge&logo=tensorflow&logoColor=white"/>
-<img src="https://img.shields.io/badge/PyTorch-000000?style=for-the-badge&logo=pytorch&logoColor=white"/>
-
-<!-- MLOps -->
-<img src="https://img.shields.io/badge/MLflow-000000?style=for-the-badge&logo=mlflow&logoColor=white"/>
-
-<!-- Data Engineering -->
-<img src="https://img.shields.io/badge/Apache%20Spark-000000?style=for-the-badge&logo=apachespark&logoColor=white"/>
-<img src="https://img.shields.io/badge/PySpark-000000?style=for-the-badge&logo=apachespark&logoColor=white"/>
-
-
-<!-- Cloud -->
-<img src="https://img.shields.io/badge/Azure%20Databricks-000000?style=for-the-badge&logo=databricks&logoColor=red"/>
-
-<!-- Analytics -->
-<img src="https://img.shields.io/badge/Plotly-000000?style=for-the-badge&logo=plotly&logoColor=white"/>
-
-
-<!-- DevOps -->
-<img src="https://img.shields.io/badge/Docker-000000?style=for-the-badge&logo=docker&logoColor=white"/>
-
-<!-- Collaboration -->
-<img src="https://img.shields.io/badge/Jira-000000?style=for-the-badge&logo=jira&logoColor=white"/>
-<img src="https://img.shields.io/badge/Confluence-000000?style=for-the-badge&logo=confluence&logoColor=white"/>
-
-</p>
+### **Cloud, MLOps & Big Data**
+<img src="https://img.shields.io/badge/Azure%20Databricks-000000?style=for-the-badge&logo=databricks&logoColor=red"/> <img src="https://img.shields.io/badge/MLflow-000000?style=for-the-badge&logo=mlflow&logoColor=white"/> <img src="https://img.shields.io/badge/Docker-000000?style=for-the-badge&logo=docker&logoColor=white"/> <img src="https://img.shields.io/badge/Apache%20Spark-000000?style=for-the-badge&logo=apachespark&logoColor=white"/> <img src="https://img.shields.io/badge/PySpark-000000?style=for-the-badge&logo=apachespark&logoColor=white"/>
 
 ---
 
-### 🚀 Featured Work
+## 🚀 What I Do
 
-| Project | Description | Tech |
-|---|---|---|
-| 🎯 Order Conversion ML System | Real-time conversion prediction + SHAP insights | Azure ML, CatBoost, Power BI |
-| 🔮 Forecasting Engine | LSTM + ARIMA forecasting stack | Python, Azure ML |
-| 📊 Risk Analytics Dashboard | Portfolio risk platform | Dash, Docker, MySQL |
-| 🏗 ETL + Metrics Automation | High-speed automation pipeline | Airflow, Polars, Python |
+- **Predictive Modeling**: Expert in forecasting, classification, and churn/conversion prediction.
+- **MLOps**: Designing end-to-end pipelines (training, validation, deployment, monitoring) using Airflow, MLflow, and Azure ML.
+- **Scalable Data Processing**: High-performance engineering with PySpark and Polars effectively handling large-scale datasets.
+- **Cloud Infrastructure**: Building secure, containerized (Docker) environments for reproducible ML workflows.
 
 ---
 
-### 🐍 Contribution Snake
+## 🐍 Contribution Graph
 
-<p align="center">
+<p align="left">
   <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
 </p>
 
 ---
 
-### 🌐 Connect
+## 🕹️ Off-Work Mood
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/shamkhalhajiyev/"><img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://shamkhalhajiyev.github.io/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=github&logoColor=white"/></a>
-  <a href="mailto:hajiyev.shamkhal@gmail.com"><img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-</p>
+Strategy games, reading research papers, chess, and experimenting with AI ideas.
 
 ---
 
-### 🕹️ Off-Work Mood
-
-Strategy games, reading research papers, chess, and experimenting with AI ideas.
+<div align="center">
+  <p>Exploring new opportunities in ML Engineering and Applied AI.</p>
+</div>
