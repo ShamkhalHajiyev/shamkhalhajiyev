@@ -5,7 +5,7 @@
 **Machine Learning Engineer**  
 Building production ML systems that drive measurable business outcomes.
 
-[Link to Portfolio](https://shamkhalhajiyev.github.io/) • [LinkedIn](https://www.linkedin.com/in/shamkhalhajiyev/) • [Email](mailto:hajiyev.shamkhal@gmail.com)
+[Portfolio](https://shamkhalhajiyev.github.io/) • [LinkedIn](https://www.linkedin.com/in/shamkhalhajiyev/) • [Email](mailto:hajiyev.shamkhal@gmail.com)
 
 </div>
 
@@ -14,6 +14,18 @@ Building production ML systems that drive measurable business outcomes.
 ## ⚡ About
 
 I'm a Machine Learning Engineer with 5 years of experience designing and delivering end-to-end ML solutions. My focus is on turning complex data into reliable, scalable systems — ranging from forecasting pipelines and churn prediction models to real-time inference and MLOps automation. I'm Azure-certified and passionate about building reproducible, production-grade AI infrastructure.
+
+---
+
+## 🏗 Featured Engineering
+
+| Project | Engineering & Impact | Tech Stack |
+|:--- |:--- |:--- |
+| **Customer Churn Prediction** | Developed a retention model to identify at-risk users, enabling targeted intervention campaigns. | **Python, scikit-learn, Azure ML** |
+| **Order Conversion System** | Designed a real-time predictive engine to identify high-value sessions. Integrated SHAP values for granular explainability and business trust. | **Azure ML, CatBoost, Power BI** |
+| **Forecasting Engine** | Built a hybrid forecasting stack combining Deep Learning (LSTM) and statistical methods (ARIMA) for robust demand planning. | **Python, TensorFlow, Azure ML** |
+| **ETL & Metrics Automation** | Engineered a high-speed data pipeline for automated reporting, significantly reducing manual latency. | **Airflow, Polars, Python** |
+| **Risk Analytics Platform** | Developed an interactive dashboard for portfolio risk assessment and visualization. | **Dash, Docker, MySQL** |
 
 ---
 
@@ -28,14 +40,6 @@ I'm a Machine Learning Engineer with 5 years of experience designing and deliver
 ### **Cloud, MLOps & Big Data**
 <img src="https://img.shields.io/badge/Azure%20Databricks-000000?style=for-the-badge&logo=databricks&logoColor=red"/> <img src="https://img.shields.io/badge/MLflow-000000?style=for-the-badge&logo=mlflow&logoColor=white"/> <img src="https://img.shields.io/badge/Docker-000000?style=for-the-badge&logo=docker&logoColor=white"/> <img src="https://img.shields.io/badge/Apache%20Spark-000000?style=for-the-badge&logo=apachespark&logoColor=white"/> <img src="https://img.shields.io/badge/PySpark-000000?style=for-the-badge&logo=apachespark&logoColor=white"/>
 
----
-
-## 🚀 What I Do
-
-- **Predictive Modeling**: Expert in forecasting, classification, and churn/conversion prediction.
-- **MLOps**: Designing end-to-end pipelines (training, validation, deployment, monitoring) using Airflow, MLflow, and Azure ML.
-- **Scalable Data Processing**: High-performance engineering with PySpark and Polars effectively handling large-scale datasets.
-- **Cloud Infrastructure**: Building secure, containerized (Docker) environments for reproducible ML workflows.
 
 ---
 
@@ -53,6 +57,3 @@ Strategy games, reading research papers, chess, and experimenting with AI ideas.
 
 ---
 
-<div align="center">
-  <p>Exploring new opportunities in ML Engineering and Applied AI.</p>
-</div>
